@@ -1,0 +1,17 @@
+{
+  "name": "orderbot",
+  "version": "1.0.0",
+  "description": "Order Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "FOOOD"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botmaster": "^2.2.2"
+  }
+}
