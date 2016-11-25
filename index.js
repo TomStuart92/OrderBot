@@ -3,7 +3,7 @@ var Botmaster = require('botmaster');
 
 var messengerSettings = {
   credentials: {
-    verifyToken: 'YOUR verifyToken',
+    verifyToken: 'orderbot',
     pageToken: 'YOUR pageToken',
     fbAppSecret: 'b276dd7c21168dc3e64a594b7e5d09eb',
   },
